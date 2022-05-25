@@ -12,6 +12,6 @@
 </head>
 <body>
 <h2>Result:</h2>
-<h3>${firstOperand} ${operator} ${secondOperand} = ${result}</h3>
+<p>${firstOperand} ${operator} ${secondOperand} = ${result}</p>
 </body>
 </html>
